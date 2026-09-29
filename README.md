@@ -164,5 +164,4 @@ flutter run
 
 <p align="center">
   Built with ❤️ for the <strong>SIH26068 Hackathon</strong>. <br>
-  Open-source under the MIT License.
 </p>
